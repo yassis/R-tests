@@ -1,2 +1,2 @@
-# s.yas.saadat-gmail.com
+# R-test
 R-tests to be linked to RStudio
